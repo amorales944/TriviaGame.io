@@ -1,10 +1,6 @@
-
-
-
-
 $(document).ready(function() {
-    var correct = 0;
-
+    const correct = 0;
+    const answer;
 
 
 
